@@ -12,6 +12,10 @@ Plug 'jorgechato/vim-blacktie'
 :colorscheme blacktie
 ```
 
+## Example
+
+![example 1](https://raw.githubusercontent.com/jorgechato/vim-blacktie/master/example/1.png)
+
 ## Info
 
 Inspired in [zazen](https://github.com/zaki/zazen) color scheme.

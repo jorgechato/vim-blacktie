@@ -11,9 +11,9 @@ endif
 let colors_name = "blacktie"
 
 hi Normal       guifg=#cccccc          guibg=#000000   gui=NONE
-hi CursorLine   guifg=NONE             guibg=#555555   gui=NONE
+hi CursorLine   guifg=NONE             guibg=#1a1a1a	 gui=NONE
 hi CursorColumn guifg=NONE             guibg=#1a1a1a   gui=NONE
-hi LineNr       guifg=#555555          guibg=NONE      gui=NONE
+hi LineNr       guifg=#555555          guibg=#1a1a1a   gui=NONE
 hi Statement    guifg=#a6a6a6          guibg=NONE      gui=bold
 hi Function     guifg=#eeeeee          guibg=NONE      gui=bold
 hi String       guifg=#838383          guibg=NONE      gui=NONE
@@ -31,7 +31,7 @@ hi Constant     guifg=#838383          guibg=#222222   gui=bold
 hi Delimiter    guifg=#838383          guibg=NONE      gui=NONE
 
 hi Visual       guifg=#ffffff          guibg=#515151   gui=NONE
-hi ColorColumn  guifg=NONE             guibg=#222222
+hi ColorColumn  guifg=NONE             guibg=#1a1a1a
 hi Cursor       guifg=bg               guibg=fg        gui=NONE
 hi CursorIM     guifg=bg               guibg=fg        gui=NONE
 hi lCursor      guifg=bg               guibg=fg        gui=NONE
@@ -51,7 +51,7 @@ hi Search       guifg=#000000          guibg=#c5c3c3   gui=NONE
 hi MatchParen   guifg=#000000          guibg=#a8a8a8   gui=bold
 hi ModeMsg      guifg=#ffffff          guibg=#767676   gui=bold
 hi MoreMsg      guifg=#7c7c7c          guibg=bg        gui=bold
-hi NonText      guifg=#7e7e7e          guibg=bg        gui=bold
+hi NonText      guifg=#7e7e7e          guibg=#1a1a1a   gui=bold
 
 hi Pmenu        guifg=#656565          guibg=#3f3f3f   gui=NONE
 hi PmenuSbar    guifg=fg               guibg=#5d5d5d   gui=NONE
